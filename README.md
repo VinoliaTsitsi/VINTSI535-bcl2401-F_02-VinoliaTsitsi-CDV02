@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Vinolia Tsitsi 
 #### Software Developer 
-I am a Black African woman. Currently I am studying a Software Engineering course with CodeSpace through the Royal Impact Scholarship. I am specialising in JavaScript. So far I have learned to create things like a Demo of an Instagram Page, Animation Buttons, web pages that function well on mobiles and big computer screens, Black jack game. By the end of 2024 I will have a qualification of NQF5 on Java Script Engineering with CodeSpce.   
+I am a Black African woman. Currently I am studying a Software Engineering course with CodeSpace through the Royal Impact Scholarship. I am specialising in JavaScript. So far I have learned to create things like a Demo of an Instagram Page, Animation Buttons, web pages that function well on mobiles and big computer screens, Black jack game. By the end of 2024 I will have a qualification of Java Script Engineering with CodeSpce.   
 
 Skills:  JS / HTML / CSS & Tailwind
 
